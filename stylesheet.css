@@ -1,0 +1,97 @@
+#title {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 75px;
+	color: black;
+	text-align: center;
+}
+
+#desc1 {
+	font-family: Helvetica;
+	font-size: 50px;
+	color: black;
+	text-align: center;
+	margin-top: -100px;
+}
+
+#desc2 {
+	font-family: Helvetica;
+	font-size: 10px;
+	color: black;
+	text-align: center;
+	margin-top: -60px;
+}
+
+#link {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 50px;
+	color: black;
+	text-align: center;
+	margin-top: 200px;
+}
+
+#twitter {
+	text-decoration: none;
+	font-family: Helvetica;
+	font-weight: none;
+	font-size: 25px;
+	color: #00aced; 
+}
+
+#twitterdiv {
+	text-align: center;
+	margin-top: -45px;
+}
+
+#youtube {
+	text-decoration: none;
+	font-family: Helvetica;
+	font-weight: none;
+	font-size: 25px;
+	color: #e52d27;
+}
+
+#youtubediv {
+	text-align: center;
+}
+
+#steam {
+	text-decoration: none;
+	font-family: Helvetica;
+	font-weight: none;
+	font-size: 25px;
+	color: #231f20
+}
+
+#steamdiv {
+	text-align: center;
+}
+
+#spotify {
+	text-decoration: none;
+	font-family: Helvetica;
+	font-weight: none;
+	font-size: 25px;
+	color: #1ED760
+}
+
+#spotifydiv {
+	text-align: center;
+}
+
+#more {
+	font-family: Helvetica;
+	color: black;
+	text-align: center;
+}
+
+#morediv {
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+html {
+	background-color: #ffffff;
+}
