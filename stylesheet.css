@@ -1,39 +1,40 @@
-#title {
+p {
 	font-family: Helvetica;
+	color: black;
+}
+
+a {
+	text-decoration: none;
+	font-family: Helvetica;
+	color: black;
+}
+
+#title {
 	font-weight: bold;
 	font-size: 75px;
-	color: black;
 	text-align: center;
 }
 
 #desc1 {
-	font-family: Helvetica;
 	font-size: 50px;
-	color: black;
 	text-align: center;
 	margin-top: -100px;
 }
 
 #desc2 {
-	font-family: Helvetica;
 	font-size: 10px;
-	color: black;
 	text-align: center;
 	margin-top: -60px;
 }
 
 #link {
-	font-family: Helvetica;
 	font-weight: bold;
 	font-size: 50px;
-	color: black;
 	text-align: center;
 	margin-top: 200px;
 }
 
 #twitter {
-	text-decoration: none;
-	font-family: Helvetica;
 	font-weight: none;
 	font-size: 25px;
 	color: #00aced; 
@@ -45,8 +46,6 @@
 }
 
 #youtube {
-	text-decoration: none;
-	font-family: Helvetica;
 	font-weight: none;
 	font-size: 25px;
 	color: #e52d27;
@@ -57,8 +56,6 @@
 }
 
 #steam {
-	text-decoration: none;
-	font-family: Helvetica;
 	font-weight: none;
 	font-size: 25px;
 	color: #231f20
@@ -69,8 +66,6 @@
 }
 
 #spotify {
-	text-decoration: none;
-	font-family: Helvetica;
 	font-weight: none;
 	font-size: 25px;
 	color: #1ED760
@@ -81,8 +76,6 @@
 }
 
 #more {
-	font-family: Helvetica;
-	color: black;
 	text-align: center;
 }
 
