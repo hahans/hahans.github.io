@@ -18,24 +18,20 @@ a {
 #desc1 {
 	font-size: 50px;
 	text-align: center;
-	margin-top: -100px;
+	margin-top: -50px;
 }
 
-#desc2 {
-	font-size: 10px;
-	text-align: center;
-	margin-top: -60px;
+#linksdiv {
+	margin: auto;
 }
 
-#link {
+#links {
 	font-weight: bold;
 	font-size: 50px;
 	text-align: center;
-	margin-top: 200px;
 }
 
 #twitter {
-	font-weight: none;
 	font-size: 25px;
 	color: #00aced; 
 }
@@ -46,7 +42,6 @@ a {
 }
 
 #youtube {
-	font-weight: none;
 	font-size: 25px;
 	color: #e52d27;
 }
@@ -56,7 +51,6 @@ a {
 }
 
 #steam {
-	font-weight: none;
 	font-size: 25px;
 	color: #231f20
 }
@@ -66,12 +60,20 @@ a {
 }
 
 #spotify {
-	font-weight: none;
 	font-size: 25px;
 	color: #1ED760
 }
 
 #spotifydiv {
+	text-align: center;
+}
+
+#github {
+	font-size: 25px;
+	color: #171515;
+}
+
+#githubdiv {
 	text-align: center;
 }
 
