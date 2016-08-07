@@ -77,6 +77,28 @@ a {
 	text-align: center;
 }
 
+#links2div {
+	margin: auto;
+}
+
+#links2 {
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 0px;
+}
+
+#csgohacksdiv {
+	
+	text-align: center;
+	margin-top: -45px;
+}
+
+#csgohacks {
+	font-size: 25px;
+	color: #f7a238;
+}
+
 #more {
 	text-align: center;
 }
