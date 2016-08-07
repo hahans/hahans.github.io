@@ -1,0 +1,83 @@
+p {
+	font-family: Helvetica;
+	color: black;
+}
+
+a {
+	text-decoration: none;
+	font-family: Helvetica;
+	color: black;
+}
+
+#title {
+	font-weight: bold;
+	font-size: 75px;
+	text-align: center;
+}
+
+#desc1 {
+	font-size: 50px;
+	text-align: center;
+	margin-top: -50px;
+}
+
+#sourcesdiv {
+	margin: auto;
+}
+
+#sources {
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+}
+
+#wh {
+	font-size: 25px; 
+}
+
+#whdiv {
+	text-align: center;
+	margin-top: -45px;
+}
+
+#ab {
+	font-size: 25px;
+}
+
+#abdiv {
+	text-align: center;
+}
+
+#bhop {
+	font-size: 25px;
+}
+
+#bhopdiv {
+	text-align: center;
+}
+
+#fov {
+	font-size: 25px;
+}
+
+#fovdiv {
+	text-align: center;
+}
+
+#more {
+	text-align: center;
+}
+
+#morediv {
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+html {
+	background-color: #ffffff;
+}
