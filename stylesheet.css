@@ -89,7 +89,6 @@ a {
 }
 
 #csgohacksdiv {
-	
 	text-align: center;
 	margin-top: -45px;
 }
@@ -97,6 +96,14 @@ a {
 #csgohacks {
 	font-size: 25px;
 	color: #f7a238;
+}
+
+#music {
+	font-size: 25px;
+}
+
+#musicdiv {
+	text-align: center;
 }
 
 #more {
