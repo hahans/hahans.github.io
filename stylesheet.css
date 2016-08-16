@@ -98,6 +98,15 @@ a {
 	color: #f7a238;
 }
 
+#ken1div {
+	text-align: center;
+}
+
+#ken1 {
+	font-size: 25px;
+	color: purple;
+}
+
 #more {
 	text-align: center;
 }
