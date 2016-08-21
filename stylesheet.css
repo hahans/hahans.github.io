@@ -41,6 +41,15 @@ a {
 	margin-top: -45px;
 }
 
+#twitter2 {
+	font-size: 25px;
+	color: #00aced;
+}
+
+#twitter2div {
+	text-align: center;
+}
+
 #youtube {
 	font-size: 25px;
 	color: #e52d27;
