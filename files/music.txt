@@ -12,5 +12,6 @@ files/random/freedom.mp3
 files/random/intoxicated.mp3
 files/random/pursuitofhappiness.mp3
 files/random/sweatpants.mp3
+files/random/howsthis.mp4
 
 files/tnght/higherground.mp3
