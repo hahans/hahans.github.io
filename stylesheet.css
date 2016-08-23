@@ -59,6 +59,15 @@ a {
 	text-align: center;
 }
 
+#twitch {
+	font-size: 25px;
+	color: #6441A5;
+}
+
+#twitchdiv {
+	text-align: center;
+}
+
 #steam {
 	font-size: 25px;
 	color: #231f20
