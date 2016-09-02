@@ -13,5 +13,7 @@ files/random/intoxicated.mp3
 files/random/pursuitofhappiness.mp3
 files/random/sweatpants.mp3
 files/random/howsthis.mp4
+files/random/songforallhaters.mp4
+files/random/songforallhaters.wav
 
 files/tnght/higherground.mp3
