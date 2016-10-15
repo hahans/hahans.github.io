@@ -125,6 +125,15 @@ a {
 	color: purple;
 }
 
+#artdiv {
+	text-align: center;
+}
+
+#art {
+	font-size: 25px;
+	color: 363636;
+}
+
 #more {
 	text-align: center;
 }
