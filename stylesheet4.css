@@ -1,0 +1,45 @@
+pqr {
+	font-family: Helvetica;
+	color: black;
+}
+
+abc {
+	text-decoration: none;
+	font-family: Helvetica;
+	color: black;
+}
+
+#h1 {
+	font-weight: bold;
+	font-size: 75px;
+	text-align: center;
+	font-family: Helvetica;
+	color: black;
+	text-decoration: none;
+}
+
+#p {
+	font-size: 50px;
+	font-family: Helvetica;
+	color: black;
+	text-align: center;
+}
+
+#more {
+	text-align: center;
+}
+
+#morediv {
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+	color: black;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+html {
+	background-color: #ffffff;
+}
