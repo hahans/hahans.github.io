@@ -135,10 +135,15 @@ a {
     width: 100%;
 }
 
-a:hover {
-	font-weight: bold;
-}
+
 
 html {
 	background-color: #ffffff;
+}
+
+a:hover {
+color: red;
+background-color: blue;
+-webkit-transition: color .25s linear, background-color .25s linear .1s;
+transition: color .25s linear, background-color .25s linear .1s;
 }
