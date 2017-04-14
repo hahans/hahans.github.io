@@ -1,0 +1,58 @@
+body {
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	font-family: "Arial";
+	color: white;
+	text-align: center;
+	font-size: 100px;
+	font-weight: 100;
+	margin-top: 250px;
+}
+
+hr {
+	margin: center;
+	width: 10%;
+	color: #a9a9a9;
+}
+
+#all {
+	
+}
+
+#links {
+	font-family: "Arial";
+	font-size: 75px;
+	color: #a9a9a9;
+	text-align: center;
+	margin-top: 75px;
+	text-decoration: none;
+}
+
+#center {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+a {
+	text-decoration: none;
+	color: #a9a9a9;
+}
+
+a:link, a:visited {
+color: white;
+-webkit-transition: color .25s linear .1s;
+transition: color .25s linear .1s;
+}
+
+a:hover {
+color: #a9a9a9;
+-webkit-transition: color .25s linear, background-color .15s linear .1s;
+transition: color .25s linear, background-color .15s linear .1s;
+}
