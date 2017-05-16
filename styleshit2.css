@@ -1,5 +1,5 @@
 html,body {
-    background: url(files/bg.jpg) no-repeat center center fixed;
+    background: url(files/bg1.jpg) no-repeat center center fixed;
     -webkit-background-size: cover; 
     -moz-background-size: cover;    
     -o-background-size: cover;      
@@ -18,20 +18,28 @@ h1 {
 hr {
 	margin: center;
 	width: 10%;
-	color: #a9a9a9;
+	color: #cccccc;
 }
 
 #links {
 	font-family: "Arial";
 	font-size: 75px;
-	color: #a9a9a9;
+	color: #cccccc;
+	text-align: center;
+	text-decoration: none;
+}
+
+#links2 {
+	font-family: "Arial";
+	font-size: 50px;
+	color: #cccccc;
 	text-align: center;
 	text-decoration: none;
 }
 
 a {
 	text-decoration: none;
-	color: #a9a9a9;
+	color: #cccccc;
 }
 
 a:link, a:visited {
@@ -41,7 +49,7 @@ transition: color .25s linear .1s;
 }
 
 a:hover {
-color: #a9a9a9;
+color: #cccccc;
 -webkit-transition: color .25s linear, background-color .15s linear .1s;
 transition: color .25s linear, background-color .15s linear .1s;
 }
